@@ -1,0 +1,49 @@
+
+.inline-blocklogo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 73%;
+}
+.headerMenu li {
+    width: 50%;
+    margin-left: 25px;
+    display: inline;
+
+}
+.inline-block{
+    display: inline;
+    text-align: center;
+}
+
+.heroImg{
+    height: 1000px;
+    padding: 25px;
+}
+.heroContent1{
+    width: 250px;
+    padding-left: 1000px;
+}
+.heroContent2{
+    width: 250px;
+    margin: 0 auto;
+    vertical-align: 1000px;  
+}
+footer{
+  background-color: #373738;  
+}
+.footernav{
+    padding: 70px 0;
+    text-align: center;
+}
+#footerList1{
+   display: inline-block;
+   vertical-align: top;
+   padding-right: 1250px;
+}
+.footerbuttons{
+    vertical-align: top;
+    padding-right: 500px;
+}
